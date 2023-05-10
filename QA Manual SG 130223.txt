@@ -1,3 +1,4 @@
 Hello World!
 My name is Misha!
 Now, I live in Odessa.
+Я тут попратиковался и уже "git merge" применил!)
